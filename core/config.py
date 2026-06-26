@@ -1,0 +1,3 @@
+TOKEN = ''
+PROXY_API = ""
+OPEN_WEATHER_API = ""
