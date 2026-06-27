@@ -43,7 +43,7 @@ ChatBot/
 ## Установка
 Клонируйте репозиторий:
 ```bash
-git clone https://github.com/chat_bot/ChatBot.git
+git clone https://github.com/DaniilMaksimenko2001/chat_bot.git
 cd chat_bot
 ```
 
