@@ -57,10 +57,6 @@ cd chat_bot
 python main.py
 ```
 
-## Скриншоты
-![Страница_1](https://github.com/DaniilMaksimenko2001/chat_bot/blob/main/images/page_1.png)
-![Страница_2](https://github.com/DaniilMaksimenko2001/chat_bot/blob/main/images/page_2.png)
-
 ## Основные команды
 * 🤖 Общение с AI
 * 🌤 Получение информации о погоде
